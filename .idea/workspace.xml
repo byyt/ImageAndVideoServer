@@ -2,13 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4447fe1-dcdd-4630-9ba7-43ed1488976e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/renwu2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renwu3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renwu4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renwu5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renwu6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renwu1.png" beforeDir="false" afterPath="$PROJECT_DIR$/renwu1.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,19 +115,21 @@
     <session id="-367124953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="jpg" value="7" />
+          <entry key="jpg" value="8" />
           <entry key="js" value="1" />
           <entry key="png" value="3" />
         </counts>
@@ -87,7 +137,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Image" value="10" />
+          <entry key="Image" value="11" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
@@ -108,15 +158,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/123.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -136,18 +177,8 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/renwu1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/renwu3.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/renwu4.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -156,7 +187,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renwu6.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -199,7 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +241,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,13 +253,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Learn\AnodejsProject\test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="E:\Learn\AnodejsProject\test" />
       <recent name="E:\Learn\AnodejsProject\test\www" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn\AnodejsProject\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,22 +310,26 @@
       <workItem from="1548261695682" duration="595000" />
       <workItem from="1548504446876" duration="3425000" />
       <workItem from="1550981613455" duration="2625000" />
-      <workItem from="1551191348180" duration="6274000" />
+      <workItem from="1551191348180" duration="8352000" />
+      <workItem from="1552061254337" duration="5567000" />
+      <workItem from="1552704421776" duration="1126000" />
+      <workItem from="1552718339171" duration="411000" />
+      <workItem from="1552792472686" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47204000" />
+    <option name="totallyTimeSpent" value="56426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17829457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17829457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29929078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29929078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,19 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/abc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -365,25 +387,41 @@
     <entry file="file://$PROJECT_DIR$/aac.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/54.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renwu4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renwu3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/10.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/renwu2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/renwu1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renwu3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renwu4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/renwu5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/renwu6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renwu1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
