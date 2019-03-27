@@ -2,61 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4447fe1-dcdd-4630-9ba7-43ed1488976e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touxiang9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload_old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/upload_old/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/upload_old/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/server2.js" beforeDir="false" afterPath="$PROJECT_DIR$/upload_old/server2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/server3.js" beforeDir="false" afterPath="$PROJECT_DIR$/upload_old/server3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -115,42 +71,44 @@
     <session id="-367124953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="jpg" value="8" />
-          <entry key="js" value="1" />
-          <entry key="png" value="3" />
+          <entry key="html" value="3" />
+          <entry key="jpg" value="19" />
+          <entry key="js" value="9" />
+          <entry key="json" value="1" />
+          <entry key="png" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="Image" value="11" />
-          <entry key="JavaScript" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="23" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="2" />
+          <entry key="JavaScript" value="289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="2" />
+          <entry key="js" value="289" />
         </counts>
       </usages-collector>
     </session>
@@ -172,24 +130,22 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/renwu2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/renwu1.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/renwu5.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/renwu6.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -201,6 +157,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user/</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -211,6 +172,8 @@
         <option value="$PROJECT_DIR$/index_old.js" />
         <option value="$PROJECT_DIR$/abc.html" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/upload/server.js" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -220,7 +183,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -236,6 +199,16 @@
             <path>
               <item name="ImageAndVideoServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="ImageAndVideoServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageAndVideoServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageAndVideoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageAndVideoServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageAndVideoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="upload_old" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,13 +226,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn\AnodejsProject\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="E:\Learn\AnodejsProject\test" />
       <recent name="E:\Learn\AnodejsProject\test\www" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Learn\AnodejsProject\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,12 +247,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.server.js (1)">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/upload_old/server.js" working-dir="$PROJECT_DIR$/upload_old">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.server.js (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.server.js" />
         <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
@@ -315,29 +301,34 @@
       <workItem from="1552704421776" duration="1126000" />
       <workItem from="1552718339171" duration="411000" />
       <workItem from="1552792472686" duration="40000" />
+      <workItem from="1552811613385" duration="350000" />
+      <workItem from="1552917581406" duration="599000" />
+      <workItem from="1553016664510" duration="599000" />
+      <workItem from="1553094737251" duration="22637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56426000" />
+    <option name="totallyTimeSpent" value="80611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17829457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27202255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29929078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29219857" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4141844" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,7 +342,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.8.0/core-modules/http.js" />
-    <entry file="file://$PROJECT_DIR$/banner_moren.png" />
     <entry file="file://$PROJECT_DIR$/bbb.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -387,13 +377,6 @@
     <entry file="file://$PROJECT_DIR$/aac.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/54.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -423,6 +406,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/renwu1.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_old/server2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_old/server3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_old/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_old/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="303" column="4" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_old/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG_20190325_234429.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG_20190326_014629.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG_20190326_014853.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7f1d15b06063223fede181156f3701bb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/324f279ef95ee2619ae5dc93e05d12d4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41b78e8e6e9fac0b132f1810603fb2d5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banner_moren.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b4b628627c8db8f69cec37504931810f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cd7091ad69f9d3af5c1f4633ca19704f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/14ec3ea955d7503440b1c0d2195d65de.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/1c0966b152a1ad28b7606c2c722546a1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

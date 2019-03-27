@@ -5,12 +5,15 @@ var http = require("http"),
 
 http.createServer(function(req, res) {
     var pathname = __dirname + url.parse(req.url).pathname;
+    console.log(pathname);
     if (path.extname(pathname) == "") {
         pathname += "/";
     }
+    console.log(pathname);
     if (pathname.charAt(pathname.length - 1) == "/") {
         pathname += "index.html";
     }
+    console.log(pathname);
 
     if (path.isAbsolute(pathname)) {
         switch (path.extname(pathname)) {
