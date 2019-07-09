@@ -61,23 +61,26 @@
     <session id="-367124953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="3" />
           <entry key="jpg" value="36" />
-          <entry key="js" value="9" />
+          <entry key="js" value="18" />
           <entry key="json" value="1" />
           <entry key="png" value="4" />
         </counts>
@@ -87,19 +90,23 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="40" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="289" />
+          <entry key="JavaScript" value="305" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="289" />
+          <entry key="js" value="305" />
         </counts>
       </usages-collector>
     </session>
@@ -107,34 +114,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/123.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aaa.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.js">
+        <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
+            <state relative-caret-position="120">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
+        <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/btnplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            <state relative-caret-position="90">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Star.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -165,6 +172,11 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/upload/server.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$USER_HOME$/Downloads/start_project/assets/scripts/player.js" />
+        <option value="$USER_HOME$/Downloads/start_project/assets/scripts/NewScript.js" />
+        <option value="$USER_HOME$/Downloads/start_project/assets/scripts/btnplay.js" />
+        <option value="$USER_HOME$/Downloads/start_project/assets/scripts/Game.js" />
+        <option value="$USER_HOME$/Downloads/start_project/assets/scripts/Star.js" />
       </list>
     </option>
   </component>
@@ -176,13 +188,17 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
       <path value="$PROJECT_DIR$/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/any-promise/package.json" />
       <path value="$PROJECT_DIR$/node_modules/append-field/package.json" />
       <path value="$PROJECT_DIR$/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bluebird/package.json" />
       <path value="$PROJECT_DIR$/node_modules/body-parser/package.json" />
       <path value="$PROJECT_DIR$/node_modules/buffer-from/package.json" />
       <path value="$PROJECT_DIR$/node_modules/busboy/package.json" />
       <path value="$PROJECT_DIR$/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cls-bluebird/package.json" />
       <path value="$PROJECT_DIR$/node_modules/concat-stream/node_modules/isarray/package.json" />
       <path value="$PROJECT_DIR$/node_modules/concat-stream/node_modules/readable-stream/package.json" />
       <path value="$PROJECT_DIR$/node_modules/concat-stream/node_modules/string_decoder/package.json" />
@@ -193,9 +209,11 @@
       <path value="$PROJECT_DIR$/node_modules/cookie/package.json" />
       <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
       <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/denque/package.json" />
       <path value="$PROJECT_DIR$/node_modules/depd/package.json" />
       <path value="$PROJECT_DIR$/node_modules/destroy/package.json" />
       <path value="$PROJECT_DIR$/node_modules/dicer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dottie/package.json" />
       <path value="$PROJECT_DIR$/node_modules/ee-first/package.json" />
       <path value="$PROJECT_DIR$/node_modules/encodeurl/package.json" />
       <path value="$PROJECT_DIR$/node_modules/escape-html/package.json" />
@@ -204,11 +222,18 @@
       <path value="$PROJECT_DIR$/node_modules/finalhandler/package.json" />
       <path value="$PROJECT_DIR$/node_modules/forwarded/package.json" />
       <path value="$PROJECT_DIR$/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/generate-function/package.json" />
       <path value="$PROJECT_DIR$/node_modules/http-errors/package.json" />
       <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflection/package.json" />
       <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
       <path value="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-bluebird/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-property/package.json" />
       <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lru-cache/package.json" />
       <path value="$PROJECT_DIR$/node_modules/media-typer/package.json" />
       <path value="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" />
       <path value="$PROJECT_DIR$/node_modules/methods/package.json" />
@@ -217,8 +242,13 @@
       <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
       <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
       <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment-timezone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
       <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
       <path value="$PROJECT_DIR$/node_modules/multer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql2/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/named-placeholders/package.json" />
       <path value="$PROJECT_DIR$/node_modules/negotiator/package.json" />
       <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
       <path value="$PROJECT_DIR$/node_modules/on-finished/package.json" />
@@ -226,25 +256,40 @@
       <path value="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" />
       <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
       <path value="$PROJECT_DIR$/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pseudomap/package.json" />
       <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
       <path value="$PROJECT_DIR$/node_modules/range-parser/package.json" />
       <path value="$PROJECT_DIR$/node_modules/raw-body/package.json" />
       <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/retry-as-promised/package.json" />
       <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
       <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver/package.json" />
       <path value="$PROJECT_DIR$/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/seq-queue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sequelize-pool/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sequelize/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sequelize/package.json" />
       <path value="$PROJECT_DIR$/node_modules/serve-static/package.json" />
       <path value="$PROJECT_DIR$/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shimmer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
       <path value="$PROJECT_DIR$/node_modules/statuses/package.json" />
       <path value="$PROJECT_DIR$/node_modules/streamsearch/package.json" />
       <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/toposort-class/package.json" />
       <path value="$PROJECT_DIR$/node_modules/type-is/package.json" />
       <path value="$PROJECT_DIR$/node_modules/typedarray/package.json" />
       <path value="$PROJECT_DIR$/node_modules/unpipe/package.json" />
       <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
       <path value="$PROJECT_DIR$/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/validator/package.json" />
       <path value="$PROJECT_DIR$/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wkx/package.json" />
       <path value="$PROJECT_DIR$/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yallist/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -257,7 +302,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,15 +309,11 @@
               <item name="ImageAndVideoServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="ImageAndVideoServer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ImageAndVideoServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ImageAndVideoServer" type="462c0819:PsiDirectoryNode" />
-              <item name="upload_old" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,15 +323,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Learn\AnodejsProject\test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="E:\Learn\AnodejsProject\test" />
       <recent name="E:\Learn\AnodejsProject\test\www" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn\AnodejsProject\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -366,11 +407,25 @@
       <workItem from="1553094737251" duration="25709000" />
       <workItem from="1553913679832" duration="2766000" />
       <workItem from="1554003658122" duration="1135000" />
+      <workItem from="1555167582100" duration="6878000" />
+      <workItem from="1555427273279" duration="4250000" />
+      <workItem from="1555750318436" duration="5220000" />
+      <workItem from="1556301410562" duration="1501000" />
+      <workItem from="1556472248990" duration="1748000" />
+      <workItem from="1557070454505" duration="3130000" />
+      <workItem from="1557497847745" duration="6982000" />
+      <workItem from="1558187281340" duration="6187000" />
+      <workItem from="1559413371004" duration="805000" />
+      <workItem from="1559575547110" duration="1922000" />
+      <workItem from="1560682107349" duration="2072000" />
+      <workItem from="1561038746773" duration="730000" />
+      <workItem from="1561375079419" duration="2721000" />
+      <workItem from="1562250310344" duration="1819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87584000" />
+    <option name="totallyTimeSpent" value="134192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,7 +446,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.41702127" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.2851064" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -400,6 +455,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.4141844" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -412,45 +468,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.8.0/core-modules/fs.js" />
-    <entry file="file://$PROJECT_DIR$/11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index_old.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aac.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/54.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renwu4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renwu3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/renwu2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -503,42 +520,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b4b628627c8db8f69cec37504931810f.jpg" />
     <entry file="file://$PROJECT_DIR$/cd7091ad69f9d3af5c1f4633ca19704f.jpg" />
-    <entry file="file://$PROJECT_DIR$/upload/14ec3ea955d7503440b1c0d2195d65de.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/1c0966b152a1ad28b7606c2c722546a1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/5e413660bf992f9b8307251b775cf3d5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/7f70f1689245971dc40a605a4c9c4bb9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/ec6a0b216a0e838dbd22712e6d62776b.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/49419c4ef8978a33667e3a25d992ec9f.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/ef6ec42c2004025e71651a35f3dca06c.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/0aaccd00a4542f3f6eee05f6decd90bf.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/bb3b3740b00e83d7c6ea564c475c46be.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/791baea3bc67846910361ddf2bdcb366.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/324f279ef95ee2619ae5dc93e05d12d4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/38acbac5204ea61311c66fb5b7cf467a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/14ec3ea955d7503440b1c0d2195d65de.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/1c0966b152a1ad28b7606c2c722546a1.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/5e413660bf992f9b8307251b775cf3d5.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/7f70f1689245971dc40a605a4c9c4bb9.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/ec6a0b216a0e838dbd22712e6d62776b.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/49419c4ef8978a33667e3a25d992ec9f.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/ef6ec42c2004025e71651a35f3dca06c.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/0aaccd00a4542f3f6eee05f6decd90bf.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/bb3b3740b00e83d7c6ea564c475c46be.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/791baea3bc67846910361ddf2bdcb366.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/324f279ef95ee2619ae5dc93e05d12d4.jpg" />
+    <entry file="file://$PROJECT_DIR$/upload/38acbac5204ea61311c66fb5b7cf467a.jpg" />
     <entry file="file://$PROJECT_DIR$/5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -557,17 +550,80 @@
     <entry file="file://$PROJECT_DIR$/10.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/cls-bluebird/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/retry-as-promised/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sequelize/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="30">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server22.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/complete_project/assets/scripts/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Player - 001.js" />
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/NewScript.js" />
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/btnplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/start_project/assets/scripts/Star.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
